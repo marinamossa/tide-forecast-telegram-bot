@@ -1,0 +1,5 @@
+config.php
+tides_cache.json
+*.log
+.DS_Store
+backup/
